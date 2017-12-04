@@ -64,14 +64,6 @@
     "genre": "Action"
 },
 {
-    "title": "How To Get Away With Murder",
-    "year": "2014",
-    "duration": "46min",
-    "info": "A group of ambitious law students and their brilliant criminal defense professor become involved in a twisted murder plot that promises to change the course of their lives.",
-    "image": "http://images6.fanpop.com/image/photos/38800000/How-To-Get-Away-With-Murder-He-Has-A-Wife-1x08-poster-how-to-get-away-with-murder-38869018-338-500.jpg",
-    "genre": "Drama"
-},
-{
     "title": "Justice League",
     "year": "2017",
     "duration": "2 h",
@@ -126,5 +118,21 @@
     "info": "3 high school seniors throw a birthday party to make a name for themselves. As the night progresses, things spiral out of control as word of the party spreads.",
     "image": "https://ih0.redbubble.net/image.32187024.1860/flat,800x800,070,f.jpg",
     "genre": "Comedy"
+},
+{
+    "title": "How To Get Away With Murder",
+    "year": "2014",
+    "duration": "46min",
+    "info": "A group of ambitious law students and their brilliant criminal defense professor become involved in a twisted murder plot that promises to change the course of their lives.",
+    "image": "http://images6.fanpop.com/image/photos/38800000/How-To-Get-Away-With-Murder-He-Has-A-Wife-1x08-poster-how-to-get-away-with-murder-38869018-338-500.jpg",
+    "genre": "Drama"
+},
+{
+    "title": "Harry Potter and the Deathly Hallows: Part 1",
+    "year": "2010",
+    "duration": "2 h 26min",
+    "info": "As Harry races against time and evil to destroy the Horcruxes, he uncovers the existence of three most powerful objects in the wizarding world: the Deathly Hallows.",
+    "image": "https://i.pinimg.com/736x/51/b0/1b/51b01bc534514c96103d881ceefa559c--harry-potter-poster-harry-potter-things.jpg",
+    "genre": "Science Fiction"
 }
 ]
