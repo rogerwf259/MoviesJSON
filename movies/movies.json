@@ -56,11 +56,75 @@
     "genre": "Action"
 },
 {
-    "title": "Avengers Age of Ultron",
-    "year": "2015",
-    "duration": "2 h 21min",
-    "info": "Tony Stark and Bruce Banner try to jump-start a peacekeeping program called Ultron, things go horribly wrong and it's up to them to stop the villainous Ultron",
-    "image": "https://images.moviepilot.com/images/c_limit,q_auto:good,w_600/ultronposter-these-groovy-faux-retro-movie-posters-are-the-sweetest-nostalgia-trip-jpeg-221100/these-groovy-faux-retro-movie-posters-are-the-sweetest-nostalgia-trip.jpg",
+    "title": "Taken",
+    "year": "2008",
+    "duration": "1 h 33min",
+    "info": "A retired CIA agent travels across Europe and relies on his old skills to save his estranged daughter, who has been kidnapped while on a trip to Paris.",
+    "image": "https://orig00.deviantart.net/c571/f/2015/027/3/5/taken__trilogy__retro_poster_by_ltrees-d8fnrky.jpg",
     "genre": "Action"
+},
+{
+    "title": "How To Get Away With Murder",
+    "year": "2014",
+    "duration": "46min",
+    "info": "A group of ambitious law students and their brilliant criminal defense professor become involved in a twisted murder plot that promises to change the course of their lives.",
+    "image": "http://images6.fanpop.com/image/photos/38800000/How-To-Get-Away-With-Murder-He-Has-A-Wife-1x08-poster-how-to-get-away-with-murder-38869018-338-500.jpg",
+    "genre": "Drama"
+},
+{
+    "title": "Justice League",
+    "year": "2017",
+    "duration": "2 h",
+    "info": "Fueled by his restored faith in humanity and inspired by Superman's selfless act, Bruce Wayne enlists the help of his newfound ally, Diana Prince, to face an even greater enemy.",
+    "image": "https://displate.com/displates/2017-06-09/d4114199f31693a3614cdaf65d5201f9_19805f09967158636b9cfaa2a9bf5fb6.jpg?w=280&h=392",
+    "genre": "Adventure"
+},
+{
+    "title": "Harry Potter and the Deathly Hallows: Part 1",
+    "year": "2010",
+    "duration": "2 h 26min",
+    "info": "As Harry races against time and evil to destroy the Horcruxes, he uncovers the existence of three most powerful objects in the wizarding world: the Deathly Hallows.",
+    "image": "https://i.pinimg.com/736x/51/b0/1b/51b01bc534514c96103d881ceefa559c--harry-potter-poster-harry-potter-things.jpg",
+    "genre": "Science Fiction"
+},
+{
+    "title": "Black Mirror",
+    "year": "2011",
+    "duration": "1 h",
+    "info": "A television anthology series that shows the dark side of life and technology.",
+    "image": "https://i.pinimg.com/736x/51/55/78/515578f6694828f2b4874b3de5b33663.jpg",
+    "genre": "Drama"
+},
+{
+    "title": "The Mask",
+    "year": "1994",
+    "duration": "1 h 41min",
+    "info": "Bank clerk Stanley Ipkiss is transformed into a manic superhero when he wears a mysterious mask.",
+    "image": "https://pre00.deviantart.net/0880/th/pre/i/2016/324/c/8/the_mask_movie_poster_by_larshoffmans-dap03s4.jpg",
+    "genre": "Comedy"
+},
+{
+    "title": "The Hangover",
+    "year": "2009",
+    "duration": "1 h 40min",
+    "info": "Three buddies wake up from a bachelor party in Las Vegas, with no memory of the previous night and the bachelor missing. They make their way around the city in order to find their friend before his wedding.",
+    "image": "https://static.wixstatic.com/media/ee8123_066c159d53df4bb5a3fabd8e28645460~mv2_d_2480_3508_s_4_2.jpg/v1/fill/w_750,h_1061,al_c,q_90/ee8123_066c159d53df4bb5a3fabd8e28645460~mv2_d_2480_3508_s_4_2.jpg?retry=1",
+    "genre": "Comedy"
+},
+{
+    "title": "Zombieland",
+    "year": "2009",
+    "duration": "1 h 28min",
+    "info": "A shy student trying to reach his family in Ohio, a gun-toting tough guy trying to find the last Twinkie, and a pair of sisters trying to get to an amusement park join forces to travel across a zombie-filled America.",
+    "image": "https://i.pinimg.com/originals/f9/80/4a/f9804a35caa405fbc2cd2897363b55d8.jpg",
+    "genre": "Comedy"
+},
+{
+    "title": "Proyect X",
+    "year": "2012",
+    "duration": "1 h 28min",
+    "info": "3 high school seniors throw a birthday party to make a name for themselves. As the night progresses, things spiral out of control as word of the party spreads.",
+    "image": "https://ih0.redbubble.net/image.32187024.1860/flat,800x800,070,f.jpg",
+    "genre": "Comedy"
 }
 ]
